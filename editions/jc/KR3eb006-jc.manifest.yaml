@@ -26,14 +26,13 @@ assets:
   - {seq: 6, filename: KR3eb006_006-jc.yaml, hash: 'sha256:8e66c38e0db1565e894755e9578b6ba2a604821e7f5e862131471b8e502600d1'}
   - {seq: 0, filename: KR3eb006_000-jc.yaml, hash: 'sha256:bcb221d0b5368f54a10024ca7c67eb010582568190d9e57f57c41e398dd64460'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb006_000-jc.markers.yaml, hash: 'sha256:4d0cd585c14850b8385bb1ebe863fc7b575705270e54741bdd7da5f4e23808a0'}
-  - {seq: 1, role: markers, filename: assets/KR3eb006_001-jc.markers.yaml, hash: 'sha256:b229c8326cd6873d4c7fc0e75a2315799b578fcc7b33762411e6ae743996874a'}
-  - {seq: 2, role: markers, filename: assets/KR3eb006_002-jc.markers.yaml, hash: 'sha256:121247c77a898c6fafa985566d88c77b1ce3b9da26eeb64634cc391f154399ce'}
-  - {seq: 3, role: markers, filename: assets/KR3eb006_003-jc.markers.yaml, hash: 'sha256:301ca4fe493db4bfdbefa3439d630773d55c6a5fbb24a10517f0e8be91140831'}
-  - {seq: 4, role: markers, filename: assets/KR3eb006_004-jc.markers.yaml, hash: 'sha256:4e31a20c22dd1624fb76c66493221136fb4b89108ae8f11912cf521dd7c6d7bc'}
-  - {seq: 5, role: markers, filename: assets/KR3eb006_005-jc.markers.yaml, hash: 'sha256:154fa13c15a709895e8494e03896f17a097ff1bc7f901171f145fa6c35257da1'}
-  - {seq: 6, role: markers, filename: assets/KR3eb006_006-jc.markers.yaml, hash: 'sha256:4b933b6a6273ff9b62bdbaadb7fe6d42b9e16c8554fbd10b9addef743aa49571'}
-  - {seq: 0, role: markers, filename: assets/KR3eb006_000-jc.markers.yaml, hash: 'sha256:4d0cd585c14850b8385bb1ebe863fc7b575705270e54741bdd7da5f4e23808a0'}
+  - {seq: 0, role: markers, filename: assets/KR3eb006_000-jc.markers.yaml, hash: 'sha256:406a6372698377849337c54e49f34c2c718df3d611c123497b4689d53e618e4c'}
+  - {seq: 1, role: markers, filename: assets/KR3eb006_001-jc.markers.yaml, hash: 'sha256:e4a2bead6ae22ab6b6d5d06a31f9db5f75d6df65b6ff8906e8986e45bcf95830'}
+  - {seq: 2, role: markers, filename: assets/KR3eb006_002-jc.markers.yaml, hash: 'sha256:f0e68e9bdd2ff2d05097bc6acbbafc6180a230160878e8bec27680be4d44490c'}
+  - {seq: 3, role: markers, filename: assets/KR3eb006_003-jc.markers.yaml, hash: 'sha256:816541a2e8093e38232b881400e516ebaa8129da5643f6c4c492379232dc78a2'}
+  - {seq: 4, role: markers, filename: assets/KR3eb006_004-jc.markers.yaml, hash: 'sha256:812e272ecceacb27bee8c0bbf58e8eb97d76024189ad48ce9115b791f134bed1'}
+  - {seq: 5, role: markers, filename: assets/KR3eb006_005-jc.markers.yaml, hash: 'sha256:8acfbeb1742e3fd11d9ab301d27ee40eb126ca74ae51e475d816472b28cd766c'}
+  - {seq: 6, role: markers, filename: assets/KR3eb006_006-jc.markers.yaml, hash: 'sha256:e407ceca5dc42eff4378cd7738f12fc1fd99e0ed2172ffa089686526af2be89d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -995,4 +994,4 @@ table_of_contents:
   label: 幼科扼要總論
   type: section
   level: 1
-hash: sha256:9f4dabd9ef5f515d06ecdcb1ebc8d693f99d6f7b1c621b197c89ef3fa7fc8de5
+hash: sha256:f564b8952295937f5da9231cd3bc9b100f5f8ae7dbad2f817ef5a9fb5fcb1352
